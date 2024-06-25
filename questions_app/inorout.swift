@@ -14,7 +14,7 @@ struct inorout: View {
     var body: some View {
         
         NavigationStack{
-            Text("Indoors or Outdoors?")
+            Text("Indoors or Outdoors??")
                 .font(.largeTitle)
             
             Spacer()
